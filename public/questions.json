@@ -1,0 +1,52 @@
+[
+    {
+        "qid":"01",
+        "question":"Are you looking to manage your health or the health of someone else?",
+        "choices":[
+            {"cid":"11","value":"My own"},
+            {"cid":"12","value":"My parent(s)"},
+            {"cid":"13","value":"My child(ren)"},
+            {"cid":"14","value":"My partner"}
+        ]
+    },
+    {
+        "qid":"02",
+        "question":"When was the last time you saw a healthcare provider?",
+        "choices":[
+            {"cid":"21","value":"In the last month"},
+            {"cid":"22","value":"In the last 6 months "},
+            {"cid":"23","value":"Last year"},
+            {"cid":"24","value":"A few years ago"},
+            {"cid":"25","value":"I can’t remember"}
+        ]
+    },
+    {
+        "qid":"03",
+        "question":"How many times have you visited a clinic, hospital, or other healthcare provider in the last 5 years?",
+        "choices":[
+            {"cid":"31","value":"Less than 3 times "},
+            {"cid":"32","value":"3–5 times"},
+            {"cid":"33","value":"5-10 times"},
+            {"cid":"34","value":"More than 10 times"},
+            {"cid":"35","value":"Not sure"}
+        ]
+    },
+    {
+        "qid":"04",
+        "question":"Do you take any prescription medications?",
+        "choices":[
+            {"cid":"41","value":"Yes"},
+            {"cid":"42","value":"No"},
+            {"cid":"43","value":"Prefer not to say"}
+        ]
+    },
+    {
+        "qid":"05",
+        "question":"Are you currently managing an acute or ongoing medical condition? (e.g. diabetes, MS, Crohns)",
+        "choices":[
+            {"cid":"51","value":"Yes"},
+            {"cid":"52","value":"No"},
+            {"cid":"53","value":"Prefer not to say"}
+        ]
+    }
+]
